@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
+dist/
+build/
+*.spec
+.sc_config.json
+.sc_config.json.bad
+data/admin.json
+data/admin_audit.log
+data/catalog.draft.json
+data/backups/
+data/trash/
+*.tmp
