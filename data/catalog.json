@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "items": [
+    {
+      "id": "tool-example",
+      "name": "示例工具",
+      "version": "1.2.0",
+      "category": "工具",
+      "description": "一个示例工具，用于演示下载与校验。",
+      "icon": "icons/placeholder.png",
+      "source": "sample_files/tool-example.bin",
+      "file_name": "tool-example.bin",
+      "size_bytes": 235,
+      "sha256": "a2c175383b32987b7bb3821a46a08df8c5264b3a8f0210f490cd26c1a2afd19a",
+      "sort_order": 10,
+      "status": "published"
+    },
+    {
+      "id": "player-example",
+      "name": "示例播放器",
+      "version": "2.0.0",
+      "category": "影音",
+      "description": "一个示例播放器，用于演示下载与校验。",
+      "icon": "icons/placeholder.png",
+      "source": "sample_files/player-example.bin",
+      "file_name": "player-example.bin",
+      "size_bytes": 337,
+      "sha256": "fc94dd818a55db57f06511441b07b83594f55d58f670c139a986dd08242a0f2f",
+      "sort_order": 20,
+      "status": "published"
+    },
+    {
+      "id": "notes-example",
+      "name": "示例记事本",
+      "version": "0.9.1",
+      "category": "工具",
+      "description": "一个示例记事本，用于演示下载与校验。",
+      "icon": "icons/placeholder.png",
+      "source": "sample_files/notes-example.bin",
+      "file_name": "notes-example.bin",
+      "size_bytes": 186,
+      "sha256": "2d259378463b73ba65367f449697a1ca87f274295cfdaa550d1fc733d34c98e7",
+      "sort_order": 30,
+      "status": "published"
+    }
+  ]
+}
